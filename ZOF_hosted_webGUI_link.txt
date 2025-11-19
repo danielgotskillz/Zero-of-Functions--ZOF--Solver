@@ -1,4 +1,4 @@
 Name: Ogunyankin Daniel
 Matric Number: 22CG031906
-Live URL:
-GitHub repo:
+Live URL: https://ogunyankindaniel-22cg031906-zero-of.onrender.com/
+GitHub repo: https://github.com/danielgotskillz/Zero-of-Functions--ZOF--Solver.git
